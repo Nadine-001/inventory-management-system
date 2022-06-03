@@ -1,2 +1,1 @@
-#Inventory Management System
-#Visual Studio
+Inventory Management System using Visual Studio
