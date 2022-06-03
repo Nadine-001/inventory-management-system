@@ -1,2 +1,2 @@
 # Inventory Management System
-# VisuaL Studio
+# Visual Studio
